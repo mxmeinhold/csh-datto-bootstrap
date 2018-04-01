@@ -1,43 +1,43 @@
-CSH Material Bootstrap
+CSH Datto Bootstrap
 =======================
 
-A [Bootstrap](http://getbootstrap.com) material theme designed for use on [Computer Science House](http://csh.rit.edu) websites. Based on [Materia](https://bootswatch.com/materia) by [Bootswatch](https://bootswatch.com).
+A [Bootstrap](http://getbootstrap.com) material theme designed for use on [Computer Science House](http://csh.rit.edu) websites. Based on [Materia](https://bootswatch.com/materia) by [Bootswatch](https://bootswatch.com) and Datto theming.
 
 Demo
 ----
 
-A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-material-bootstrap/4.0.0/index.html).
+A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-datto-bootstrap/4.0.0/index.html).
 
 Usage
 ------
 You can choose to install this package with NPM, or simply include the CDN links on your webpage. In both cases, you must still include Bootstrap's required JavaScript libraries to have functional dropdowns, modals, etc. unless you are using an alternative implementation (e.g. [Reactstrap](http://reactstrap.github.io)).
 
 #### Installation
-CSH Material Bootstrap is available via NPM. This method is recommended for modern web applications. Simply run the following command to add the package to your project:
+CSH Dato Bootstrap is available via NPM. This method is recommended for modern web applications. Simply run the following command to add the package to your project:
 
 ```
-npm install --save csh-material-bootstrap
+npm install --save csh-datto-bootstrap
 ```
 
 You can then include the stylesheet into your bundled project:
 
 ```
-import 'csh-material-bootstrap/dist/csh-material-bootstrap.css';
+import 'csh-datto-bootstrap/dist/csh-datto-bootstrap.css';
 ```
 
 Or with SCSS:
 
 ```
-@import "node_modules/csh-material-bootstrap/src/csh-material-bootstrap.scss";
+@import "node_modules/csh-datto-bootstrap/src/csh-datto-bootstrap.scss";
 ```
 
 #### CDN
-Use CSH Material Bootstrap without a package manager.
+Use CSH Datto Bootstrap without a package manager.
 
 ###### CSS
 
 ```
-<link rel="stylesheet" href="https://s3.csh.rit.edu/csh-material-bootstrap/4.0.0/dist/csh-material-bootstrap.min.css" media="screen">
+<link rel="stylesheet" href="https://s3.csh.rit.edu/csh-datto-bootstrap/4.0.0/dist/csh-datto-bootstrap.min.css" media="screen">
 ```
 
 ###### JS, Popper.js, and jQuery
@@ -69,6 +69,6 @@ Once all of the dependencies are installed, run `npm build` to build the stylesh
 
 Contributing
 -------------
-**Issues:** Provide a detailed report of any bugs you encounter and open an issue on [GitHub](https://github.com/ComputerScienceHouse/csh-material-bootstrap/issues). Screenshots are appreciated!
+**Issues:** Provide a detailed report of any bugs you encounter and open an issue on [GitHub](https://github.com/mxmeinhold/csh-datto-bootstrap/issues). Screenshots are appreciated!
 
 **Code:** Fork this repo, make a fix, and submit it as a pull request.

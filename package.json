@@ -1,5 +1,5 @@
 {
-  "name": "csh-material-bootstrap",
+  "name": "csh-datto-bootstrap",
   "description": "A material design Bootstrap theme for Computer Science House.",
   "version": "4.0.0",
   "author": "Computer Science House",
@@ -7,16 +7,16 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ComputerScienceHouse/csh-material-bootstrap.git"
+    "url": "https://github.com/mxmeinhold/csh-datto-bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/ComputerScienceHouse/csh-material-bootstrap/issues"
+    "url": "https://github.com/mxmeinhold/csh-datto-bootstrap/issues"
   },
   "engines": {
     "node": ">=6"
   },
-  "style": "dist/csh-material-bootstrap.css",
-  "sass": "src/csh-material-bootstrap.scss",
+  "style": "dist/csh-datto-bootstrap.css",
+  "sass": "src/csh-datto-bootstrap.scss",
   "scripts": {
     "build": "node tools/build.js",
     "start": "node tools/build.js --watch",
