@@ -69,6 +69,6 @@ Once all of the dependencies are installed, run `npm build` to build the stylesh
 
 Contributing
 -------------
-**Issues:** Provide a detailed report of any bugs you encounter and open an issue on [GitHub](https://github.com/mxmeinhold/csh-datto-bootstrap/issues). Screenshots are appreciated!
+**Issues:** Provide a detailed report of any bugs you encounter and open an issue on [GitHub](https://github.com/ComputerScienceHouse/csh-datto-bootstrap/issues). Screenshots are appreciated!
 
 **Code:** Fork this repo, make a fix, and submit it as a pull request.

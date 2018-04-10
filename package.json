@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mxmeinhold/csh-datto-bootstrap.git"
+    "url": "https://github.com/ComputerScienceHouse/csh-datto-bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/mxmeinhold/csh-datto-bootstrap/issues"
+    "url": "https://github.com/ComputerScienceHouse/csh-datto-bootstrap/issues"
   },
   "engines": {
     "node": ">=6"
